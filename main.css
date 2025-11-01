@@ -1,0 +1,31 @@
+/* selector por etiqueta */
+body {
+    background-color: rgb(221, 221, 243);
+}
+
+h1 {
+    color:red;  
+}
+
+/* div p {
+    color: green;
+} */
+
+/* article p {
+    color: blue;
+} */
+
+/* selector por clase */
+.texto-article {
+    font-size: 30px;
+    color: purple;
+}
+
+.texto-plano {
+    color: tomato;
+}
+
+/* selector por id */
+#subtitulo {
+    color: aqua;
+}
